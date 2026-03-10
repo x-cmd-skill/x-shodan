@@ -183,7 +183,6 @@ Common Shodan search filters:
 
 ## Related
 
-- [Back to x-cmd Skill](../../SKILL.md)
 - [x-cmd shodan module](https://x-cmd.com/mod/shodan)
 - [Shodan Website](https://www.shodan.io)
 - [Shodan Docs](https://developer.shodan.io)
